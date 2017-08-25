@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1441760367 source:c:\users\gustavo\onedrive\atividades e pesquisas\pbl\problema 02\programa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1441759961 c:\users\gustavo\onedrive\atividades e pesquisas\pbl\problema 02\programa\funcoes.h
+
+1441759961 source:c:\users\gustavo\onedrive\atividades e pesquisas\pbl\problema 02\programa\printar_relatorio.c
+	<stdio.h>
+
+1441760466 source:c:\users\gustavo\onedrive\atividades e pesquisas\pbl\problema 02\programa\ranking.c
+	<stdio.h>
+	"funcoes.h"
+

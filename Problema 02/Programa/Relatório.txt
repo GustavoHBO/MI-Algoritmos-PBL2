@@ -1,0 +1,104 @@
+		Quadro de Medalhas Inicial (Antes da Adição de Medalhas).
+
+
+	Ouro	|	Prata	|	Bronze	|	Total
+
+[P1]	27		37		40		104		
+[P2]	25		30		21		76		
+[P3]	42		28		36		106		
+[P4]	15		17		16		48		
+[P5]	42		28		36		106		
+[P6]	27		30		40		97		
+[P7]	15		9		16		40		
+[P8]	27		37		40		104		
+[P9]	20		32		18		70		
+
+
+
+		Ranking com Desempenho Inicial dos Países
+
+
+	Ouro	|	Prata	|	Bronze	|	Total
+
+[P3]	42		28		36		106		
+[P5]	42		28		36		106		
+[P1]	27		37		40		104		
+[P8]	27		37		40		104		
+[P6]	27		30		40		97		
+[P2]	25		30		21		76		
+[P9]	20		32		18		70		
+[P4]	15		17		16		48		
+[P7]	15		9		16		40		
+
+
+		Quadro Ordenado pela Quantidade Total de Medalhas
+
+
+	Ouro	|	Prata	|	Bronze	|	Total
+
+[P3]	42		28		36		106		
+[P5]	42		28		36		106		
+[P1]	27		37		40		104		
+[P8]	27		37		40		104		
+[P6]	27		30		40		97		
+[P2]	25		30		21		76		
+[P9]	20		32		18		70		
+[P4]	15		17		16		48		
+[P7]	15		9		16		40		
+
+
+
+		Ranking com Desempenho dos Países Ordenado Pela Numeração (ao Encerrar o Programa).
+
+
+	Ouro	|	Prata	|	Bronze	|	Total
+
+[P1]	32		42		45		119		
+[P2]	26		31		22		79		
+[P3]	42		28		36		106		
+[P4]	15		17		16		48		
+[P5]	42		28		36		106		
+[P6]	27		30		40		97		
+[P7]	15		9		16		40		
+[P8]	27		37		40		104		
+[P9]	20		32		18		70		
+
+
+		Quadro Ordenado Pela Quantidade Total de Medalhas Recebidas
+
+
+	Ouro	|	Prata	|	Bronze	|	Total
+
+[P1]	32		42		45		119		
+[P3]	42		28		36		106		
+[P5]	42		28		36		106		
+[P8]	27		37		40		104		
+[P6]	27		30		40		97		
+[P2]	26		31		22		79		
+[P9]	20		32		18		70		
+[P4]	15		17		16		48		
+[P7]	15		9		16		40		
+
+
+		Quadro Ordenado pela Quantidade de Medalhas
+
+
+	Ouro	|	Prata	|	Bronze	|	Total
+
+[P3]	42		28		36		106		
+[P5]	42		28		36		106		
+[P1]	32		42		45		119		
+[P8]	27		37		40		104		
+[P6]	27		30		40		97		
+[P2]	26		31		22		79		
+[P9]	20		32		18		70		
+[P4]	15		17		16		48		
+[P7]	15		9		16		40		
+
+
+	Quantidade de provas disputadas ao encerrar o programa: 246
+
+
+	Percentual de provas disputadas : 80.39%
+
+
